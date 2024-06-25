@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   host: "dexnovelmysql-dexprojectkk-b7a4.c.aivencloud.com",
   port: 18541,
   user: "avnadmin",
-  password: "AVNS_myphwaxv8xB0cnwCKXg",
+  password: "",
   database: "dexnovel",
 });
 
